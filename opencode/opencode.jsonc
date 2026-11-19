@@ -11,7 +11,7 @@
         "type": "remote",
         "url": "https://mcp.context7.com/mcp",
         "headers": {
-          "Authorization": "Bearer ctx7sk-2099ebf8-917d-493c-b018-85e8134364e9"
+          "Authorization": ""
         }
       }
     }
